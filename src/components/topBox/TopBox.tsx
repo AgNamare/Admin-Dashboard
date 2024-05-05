@@ -1,5 +1,5 @@
 import React from 'react';
-import "./topBox.scss"
+import "./TopBox.scss"
 import { topDealUsers } from "../../data"
 
 const TopBox = () =>{
