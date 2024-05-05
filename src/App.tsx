@@ -1,3 +1,4 @@
+import React from 'react';
 import Footer from "./components/footer/Footer";
 import Home from "./pages/home/Home"
 import Products from "./pages/products/Products"
